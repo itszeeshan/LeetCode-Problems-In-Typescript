@@ -1,6 +1,11 @@
 # LeetCode Problems In Typescript
 Goal is to find 100 LeetCode Problems in Typescript and also to find a way to solve them.
 
+### To run these files:
+- Install ```ts-node``` & ```typescript``` globally via ```npm```: ```npm i -g typescript ts-node```
+- Now just run ```ts-node <name one of the file from above>``` on your terminal.
+- For example ```ts-node twoSumProblem.ts```
+
 ## Link to Blog Post:
 All of the links below will help you understand each of the problem and how it was solved.
 
