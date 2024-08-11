@@ -18,4 +18,4 @@ All of the links below will help you understand each of the problem and how it w
 | 5      | Group Anagrams        | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-group-anagrams-problem-fb26d9cc9937     |
 | 6      | Encode And Decode Strings Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-encode-and-decode-strings-problem-1619a1216548 |
 | 7      | Combination Sum Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-combination-sum-problem-12c177d59e15  |
-| 8      | largestNumber          | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-finding-the-largest-number-from-array-elements-3bc7f2bde20f |
+| 8      | Largest Number Problem          | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-finding-the-largest-number-from-array-elements-3bc7f2bde20f |
