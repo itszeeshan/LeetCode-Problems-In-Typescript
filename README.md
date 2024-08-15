@@ -21,4 +21,5 @@ All of the links below will help you understand each of the problem and how it w
 | 8      | Largest Number Problem          | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-finding-the-largest-number-from-array-elements-3bc7f2bde20f |
 | 9       | Jump Game Problem      | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-jump-game-problem-dec80ce54b17|
 | 10      | Maximum Depth of Binary Tree Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-solving-the-maximum-depth-of-binary-tree-problem-8ddcec5880f3 |
-| 11      | Three Sum Problem            |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-3sum-c22ea608f464
+| 11      | Three Sum Problem            |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-3sum-c22ea608f464 |
+| 12      | Word Search Problem          | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-word-search-problem-1ec2ea60babb |
