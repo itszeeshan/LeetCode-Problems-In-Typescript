@@ -23,3 +23,4 @@ All of the links below will help you understand each of the problem and how it w
 | 10      | Maximum Depth of Binary Tree Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-solving-the-maximum-depth-of-binary-tree-problem-8ddcec5880f3 |
 | 11      | Three Sum Problem            |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-3sum-c22ea608f464 |
 | 12      | Word Search Problem          | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-word-search-problem-1ec2ea60babb |
+| 13      | Container With Most Water    |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-container-with-most-water-fab3de2e68d9 |
