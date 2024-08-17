@@ -24,3 +24,4 @@ All of the links below will help you understand each of the problem and how it w
 | 11      | Three Sum Problem            |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-3sum-c22ea608f464 |
 | 12      | Word Search Problem          | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-word-search-problem-1ec2ea60babb |
 | 13      | Container With Most Water    |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-container-with-most-water-fab3de2e68d9 |
+| 14      | Min Cost to Connect Points    | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-min-cost-to-connect-points-607b988c8c36 |
