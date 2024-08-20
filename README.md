@@ -26,3 +26,4 @@ All of the links below will help you understand each of the problem and how it w
 | 13      | Container With Most Water    |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-container-with-most-water-fab3de2e68d9 |
 | 14      | Min Cost to Connect Points    | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-min-cost-to-connect-points-607b988c8c36 |
 | 15     | Meeting Scheduler II      | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-meeting-scheduler-ii-d9a385a34ea3 |
+| 16    | Word break    | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-word-break-78cb918ba17c
