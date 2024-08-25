@@ -28,3 +28,5 @@ All of the links below will help you understand each of the problem and how it w
 | 15     | Meeting Scheduler II      | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-meeting-scheduler-ii-d9a385a34ea3 |
 | 16    | Word break    | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-word-break-78cb918ba17c |
 | 17    |  Least Recently Used Cache Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-lru-cache-d27c7986cccc |
+| 18    | Hand of Straights Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-hand-of-straights-problem-0dc5e0a5edb0 |
+| 19    | Surrounded Regions    | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-surrounded-regions-4a5328422781 |
