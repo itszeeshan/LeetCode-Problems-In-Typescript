@@ -30,4 +30,5 @@ All of the links below will help you understand each of the problem and how it w
 | 17    |  Least Recently Used Cache Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-lru-cache-d27c7986cccc |
 | 18    | Hand of Straights Problem | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-hand-of-straights-problem-0dc5e0a5edb0 |
 | 19    | Surrounded Regions    | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-surrounded-regions-4a5328422781 |
-| 20    | Pow Problem      |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-pow-x-n-problem-706f3fc5646d
+| 20    | Pow Problem      |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-pow-x-n-problem-706f3fc5646d |
+| 21    | Design Twitter Feed  | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-design-twitter-feed-f765eddf9351 |
