@@ -32,3 +32,5 @@ All of the links below will help you understand each of the problem and how it w
 | 19    | Surrounded Regions    | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-surrounded-regions-4a5328422781 |
 | 20    | Pow Problem      |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-pow-x-n-problem-706f3fc5646d |
 | 21    | Design Twitter Feed  | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-design-twitter-feed-f765eddf9351 |
+| 22    | Car Fleet Problem    |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-car-fleet-b5c7b3e68236    |
+| 23    | Spiral Matrix Problem  |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-spiral-matrix-d7d15f8357cd  |
