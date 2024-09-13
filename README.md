@@ -3,7 +3,7 @@ Goal is to find 100 LeetCode Problems in Typescript and also to find a way to so
 
 ### To run these files:
 - Install ```ts-node``` & ```typescript``` globally via ```npm```: ```npm i -g typescript ts-node```
-- Now just run ```ts-node <name one of the file from above>``` on your terminal.
+- Now just run ```ts-node <folder name>/<name one of the file>.ts``` on your terminal.
 - For example ```ts-node twoSumProblem.ts```
 
 ## Link to Blog Post:
