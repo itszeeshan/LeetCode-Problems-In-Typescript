@@ -34,3 +34,6 @@ All of the links below will help you understand each of the problem and how it w
 | 21    | Design Twitter Feed  | https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-design-twitter-feed-f765eddf9351 |
 | 22    | Car Fleet Problem    |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-car-fleet-b5c7b3e68236    |
 | 23    | Spiral Matrix Problem  |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-spiral-matrix-d7d15f8357cd  |
+| 24    | Alien Dictionary Problem  |  https://medium.com/@zeesek 100-days-of-leetcode-problems-in-typescript-alien-dictionary-30721be99a2d |
+| 25    | Rotate Image Problem  |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-rotate-image-e093d5183f63  |
+| 26    | Rotting Oranges Problem  |  https://medium.com/@zeesek/100-days-of-leetcode-problems-in-typescript-rotting-oranges-3994d69a79df  |
